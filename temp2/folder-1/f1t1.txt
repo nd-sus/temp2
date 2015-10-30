@@ -1,3 +1,6 @@
 Hello f1t1.
 git-1 is making changes and it is in progress which are not ready to commit yet..!
-Ohh.. not an issue.. sus & nira are always here for help..! :)
+Ohh.. not an issue.. sus & nirav are always here for help..! :)
+Hello f1t1.
+I dont know wheether another person was changing this file at same time or not..!
+Stashed changes
