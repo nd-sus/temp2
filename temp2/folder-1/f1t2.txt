@@ -1,1 +1,3 @@
 Hello f1t2
+
+hi I am changing this file to see fetch & reset related things in git-2.
